@@ -2,3 +2,5 @@ Program that generates a gif of the generation of a Barnsley fern.
 
 Read more about Barnsley ferns:
 https://en.wikipedia.org/wiki/Barnsley_fern
+
+The GifSequenceWriter class was written by Elliot Kroo and is licensed under the Creative Commons Attribution 3.0 Unported License (http://creativecommons.org/licenses/by/3.0/).
